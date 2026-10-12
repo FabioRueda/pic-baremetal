@@ -131,6 +131,8 @@ Before opening a pull request:
 - Keep the safety defaults: external power by default and the typed confirmation before programming.
 - Keep version paths in `toolchain.ps1` only.
 
+Using an AI coding agent? It reads [`CLAUDE.md`](CLAUDE.md). How this repository was built with Claude Code, and the lessons learned with the graphify and Ponytail add-ons, are in [docs/ai-assisted-development.md](docs/ai-assisted-development.md).
+
 ## License
 
 [MIT](LICENSE)
