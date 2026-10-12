@@ -1,0 +1,20 @@
+build/
+# XC8/XC16/XC32 build outputs outside build\
+*.hex
+*.elf
+*.cof
+*.o
+*.p1
+*.d
+*.pre
+*.lst
+*.map
+*.sym
+*.sdb
+*.cmf
+*.hxl
+*.obj
+*.rlf
+startup.*
+funclist
+graphify-out/
